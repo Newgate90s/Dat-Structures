@@ -1,0 +1,4 @@
+﻿  Data Structures.cpp
+c:\users\newga\source\repos\data structures\data structures\data structures.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\newga\source\repos\data structures\data structures\data structures.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Data Structures.vcxproj -> C:\Users\NewGa\source\repos\Data Structures\Debug\Data Structures.exe
